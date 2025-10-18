@@ -1,3 +1,2 @@
 # Community Guidelines
----
 Use common sense...
